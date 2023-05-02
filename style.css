@@ -1,0 +1,44 @@
+.altera-fontes {
+    font-style: normal; 
+    font-size: 3 em;
+    font-family: 'Comic Neue', cursive; 
+ 
+ }
+body {
+    text-align: center;
+    font-family: 'Comic Neue', cursive;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: 'Comic Neue', cursive;
+    font-weight: 300;
+}
+
+#app {
+    background-color: rgb(146, 110, 185);
+}
+
+#game{
+    background-color:rgb(255, 255, 255);
+}
+
+.line {
+    height: 6px;
+    background-color: #000000;
+    width: 70px;
+    margin: 8px auto;
+}
+
+#myCarousel img
+{
+    height: 300px;
+    margin: 15px;
+}
+
+.carousel-inner p
+{
+    margin-top: 15px;
+    color : white;
+    font-size: 20px;
+}
